@@ -1,5 +1,5 @@
 ### Hi there, I'm Hamza 👋
-Software engineer focused on front-end development, with extensive experience in React, TypeScript, and other front-end tools. I'm interested in learning new topics and technologies. I try to deliver more reliable pieces of software.
+Software engineer focused on front-end development, with extensive experience in React, TypeScript, and other front-end tools. I'm interested in learning new topics and technologies. Trying to deliver reliable pieces of software.
 
 <!--
 **hamzachenguiti/hamzachenguiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
